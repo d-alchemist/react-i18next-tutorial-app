@@ -1,0 +1,9 @@
+{
+  "title": "Welcome to your new language app",
+  "sayHello": "Say hello",
+  "greet": {
+    "hello": "Hello There",
+    "howWeSay": "This is how we say hello",
+    "goBack": "Go Back"
+  }
+}
