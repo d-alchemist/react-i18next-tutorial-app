@@ -1,7 +1,10 @@
 # React i18n Tutorial App
 This project demonstrates how to seamlessly integrate internationalization (i18n) into a React application using the powerful react-i18next library. Follow this step-by-step guide to create a multi-lingual experience that captivates users across different cultures.
 
-### Key Features:
+## Links:
+- Blog post: [https://frontendalchemist.com](https://frontendalchemist.com/adding-internationalization-i18n-to-your-react-app-using-react-i18next)
+
+## Key Features:
 - Multilingual Support: Effortlessly switch between English and French translations.
 
 - User-Friendly Language Switcher: Allow users to select their preferred language conveniently.
